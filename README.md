@@ -2,10 +2,7 @@
 Easily render letters in a graph view on the TI-84 Plus CE family of calculators.
 
 ## Images
-![Capture 1](https://cdn.discordapp.com/attachments/388800693198389248/408735303243661322/Capture_1.png)
-![Capture 2](https://cdn.discordapp.com/attachments/388800693198389248/408672810865786890/Capture_2.png)
-![Capture 3](https://cdn.discordapp.com/attachments/388800693198389248/408672813231243276/Capture_3.png)
-![Capture 4](https://cdn.discordapp.com/attachments/388800693198389248/408672815122743296/Capture_4.png)
+There are no images available yet!
 
 ## How do I install this onto my calculator?
 1. Download the newest release of BiNaS.
