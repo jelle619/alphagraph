@@ -1,4 +1,4 @@
-# AlphaTi
+# AlphaGraph
 Easily render letters in a graph view on the TI-84 Plus CE family of calculators.
 
 ## Images
