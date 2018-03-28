@@ -17,4 +17,4 @@ There are no images available yet!
 3. Push your changes to our repo. If the changes are significant enough, we'll merge them!
 
 ## Languages & Translations
-Currently, this project is only available in English. If you want to translate it, you may clone this repository and translate it into your preffered language.
+Currently, this project is only available in English (although some developer notes might be in Dutch). If you want to translate it, you may clone this repository and translate it into your preffered language.
